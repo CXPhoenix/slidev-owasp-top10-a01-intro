@@ -1,5 +1,6 @@
 ---
 theme: "@cxphoenix/slidev-theme-isip.hs"
+author: CXPh03n1x
 ---
 
 ::title::
