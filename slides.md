@@ -61,7 +61,7 @@ layout: image
 ---
 
 ::title::
-# OWASP Top 10 分類
+# OWASP Top 10 排名
 
 ::default::
 ![OWASP Top10 2021 Category](/owasp-top10-categories.png) {.pb-8}
@@ -77,22 +77,6 @@ layout: section
 ## Broken Access Control
 
 ---
-
-::title::
-# 什麼是權限控制？
-
-::default::
-- 權限控制就像是網站或應用程式的門鎖系統
-
-  <v-clicks>
-
-  - 決定誰可以進入哪些區域。
-  - 誰能看到哪些資料。
-  - 誰能執行哪些操作。
-
-  </v-clicks>
-
----
 layout: image
 ---
 
@@ -101,6 +85,22 @@ layout: image
 
 ::default::
 ![Access Components Intro](/access-components-intro.png) {.w-[95%]}
+
+<!-- 
+  - 決定誰可以進入哪些區域。
+  - 誰能看到哪些資料。
+  - 誰能執行哪些操作。
+ -->
+
+---
+layout: image
+---
+
+::title::
+# 什麼是權限控制？(續)
+
+::default::
+![Access Components Intro](/access-flow.png) {.w-[95%]}
 
 ---
 
